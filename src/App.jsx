@@ -10,7 +10,6 @@ function App() {
 
       <div className='mt-12 md:flex'>
         <Questions />
-        <Puntacion />
       </div>
     </div>
   )
