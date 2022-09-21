@@ -1,6 +1,5 @@
 
 import Header from './components/Header';
-import Puntacion from './components/Puntacion';
 import Questions from './components/Questions';
 
 function App() {
